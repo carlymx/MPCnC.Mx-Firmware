@@ -13,8 +13,10 @@ Esta Modificación del famoso firmware esta destinada a controlar de manera adec
  - Pasos por vuelta configurados para el uso de poleas de 20 dientes y correas GT2 en los ejes X e Y.
 
  
-** Nota importante: 
+** Notas importante: 
  - Este firmware es experimental y esta sujeto a múltiples posibles problemas que pueden o no, dificultar la experiencia del usuario. Tenga en cuenta támbien que el uso debido o indebido de este firmware puede dañar su maquina. USELO BAJO SU PROPIA RESPONSABILIDAD!.
+ 
+ - Configurado para un tamaño util de trabajo de 500x900x100mm, tenga en cuenta a cambiar eso valores para el tamaño establecido por usted en su maquina (Puede calcular el tamaño de su maquina [con esta calculadora](https://jscalc.io/calc/QHWZUpKFJzyGVS2D).
 
  
 
