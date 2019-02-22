@@ -1,4 +1,4 @@
-# Marlin Firmware Adaptado para la MPCnC-Mx.
+# Marlin Firmware 2.0.x Adaptado para la MPCnC-Mx.
 
 Esta Modificación del famoso firmware esta destinada a controlar de manera adecuada una maquina CNC (Control Numérico Computarizado) llamada MPCnC-Mx que es una variante para métrica Internacional de la MPCNC.
 
