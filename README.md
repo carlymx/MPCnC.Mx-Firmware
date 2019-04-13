@@ -26,7 +26,7 @@ Esta Modificación del famoso firmware esta destinada a controlar de manera adec
 
  - Actualizado a Marlin 2.0.x-13-04-2019.
  - Autolevel Bilinial.
- - Activada la Confirmación de inicio del GCode sellecionado.
+ - Activada la Confirmación de inicio del GCode selecionado.
  - Activados los juegos (por probar).
  - Revisión de Configuración.
 
