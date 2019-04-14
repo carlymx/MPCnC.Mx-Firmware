@@ -2,6 +2,8 @@
 
 Esta Modificación del famoso firmware esta destinada a controlar de manera adecuada una maquina CNC (Control Numérico Computarizado) llamada [MPCnC-Mx](https://www.thingiverse.com/thing:3218244) que es una variante para métrica Internacional de la MPCnC.
 
+**NOTA:** Debe ser compilado con la ultima [versión 1.9.x](https://www.arduino.cc/en/Main/Software) (o superior) del Arduino IDE. 
+
 ## Características:
 
  - Versión del Marlin 2.0.x bugfix (11-04-2019).
