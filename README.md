@@ -4,7 +4,7 @@ Esta Modificación del famoso firmware esta destinada a controlar de manera adec
 
 ## Características:
 
- - Versión del Marlin 2.0.x bugfix (20-02-2019).
+ - Versión del Marlin 2.0.x bugfix (11-04-2019).
  - Configurado para Arduino Mega 2560 + Ramps v1.4
  - Doble Motor en Ejes X e Y de control independiente.
  - Doble Final de Carrera en ejes X e Y para un ajuste mas preciso del punto 0.
@@ -24,7 +24,7 @@ Esta Modificación del famoso firmware esta destinada a controlar de manera adec
 
 13-04-2019
 
- - Actualizado a Marlin 2.0.x-13-04-2019.
+ - Actualizado a Marlin 2.0.x-11-04-2019.
  - Autolevel Bilinial.
  - Activada la Confirmación de inicio del GCode selecionado.
  - Activados los juegos (por probar).
@@ -35,7 +35,8 @@ Esta Modificación del famoso firmware esta destinada a controlar de manera adec
 
 El proyecto Original del que depende totalmente esta pequeña modificación es:
 
-[Marlin Home Page](http://marlinfw.org/) 
+[Marlin Home Page](http://marlinfw.org/)
+
 [GitHub](https://github.com/MarlinFirmware/Marlin)
 
 [Wiki Page](http://reprap.org/wiki/Marlin)
