@@ -1,4 +1,16 @@
-/** * MARLIN 2.0.x [13-04-2019] - MODIFICADO EL 13-04-2019 *
+/** 
+ ********************************************************************
+ * MARLIN 2.0.x [13-04-2019] - MODIFICADO EL 13-04-2019-003 *
+ *
+ * ARCHIVOS MODIFICADOS:
+ * 	- CONFIGURATION.H
+ *	- CONFIGURATION_ADV.H
+ *	- PINS_RAMPS.H
+ *
+ * ARCHIVOS AÑADIDOS:
+ * 	- _Bootscreen.h
+ *
+ ********************************************************************
  * Marlin 3D Printer Firmware
  * Copyright (C) 2019 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
