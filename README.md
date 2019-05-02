@@ -24,6 +24,14 @@ Esta Modificación del famoso firmware esta destinada a controlar de manera adec
 
 ## CHANGELOG
 
+02-05-2019
+
+ - **EEPROM** Desactivada, de momento no es necesaria y da problemas... como siempre.
+ - Desactivada **#define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN**, se ha dejado de usar el Final de Carrera del Z, ahora se hace por gCode.
+ - Modificada **#define Z_CLEARANCE_BETWEEN_PROBES  20** para permitir bajar la broca mas alla del punto cero.
+ - Invertidos **Invert the stepper direction.** para usar el punto cero de la cama en la esquina correcta.
+
+
 13-04-2019
 
  - Actualizado a Marlin 2.0.x-11-04-2019.
