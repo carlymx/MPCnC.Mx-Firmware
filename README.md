@@ -24,6 +24,10 @@ Esta Modificación del famoso firmware esta destinada a controlar de manera adec
 
 ## CHANGELOG
 
+09-06-2019
+
+ - Añadida configuración predeterminada para la RUMBA en **.\config\MPCnC-Default-RUMBA**
+
 02-05-2019
 
  - **EEPROM** Desactivada, de momento no es necesaria y da problemas... como siempre.
